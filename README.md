@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5p1n6a11&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=5p1n6a11&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
 <!--
 **5p1n6a11/5p1n6a11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
